@@ -1,0 +1,24 @@
+{
+  "name": "sown",
+  "version": "0.0.0",
+  "description": "Sown GraphQL Client",
+  "keywords": [
+    "sown",
+    "graphql",
+    "client"
+  ],
+  "author": "Tzvi Melamed <tzvi@melamed.biz>",
+  "homepage": "https://github.com/tzvipm/sown#readme",
+  "license": "MIT",
+  "main": "lib/sown.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzvipm/sown.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/tzvipm/sown/issues"
+  }
+}
